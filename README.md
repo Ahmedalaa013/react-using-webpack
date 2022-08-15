@@ -1,0 +1,1 @@
+#  Simple React app using manually configured webpack
